@@ -1,3 +1,3 @@
 require("configs.settings")
---require("configs.maps")
+require("configs.maps")
 require("configs.lazy")
